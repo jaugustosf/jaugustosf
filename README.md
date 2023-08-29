@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, nice to meet you 👋
 
-<!--
-**jaugustosf/jaugustosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Graduating in Software Engineering at UFC;
+- Focused on learning every day;
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaugustosf&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaugustosf&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+<br>
+<i>Sunacchi</i>
